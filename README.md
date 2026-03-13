@@ -15,8 +15,10 @@ A 3D physics-based driving and parking simulation game developed in Unity. The p
 * **Core Systems:** Unity Physics (Rigidbody, Colliders), UI Canvas, Scene Management.
 
 ## 📸 Screenshots & Gameplay
-> [Insert a screenshot of the bus driving in the city here]
-> [Insert a screenshot of the "WIN" screen after a perfect park here]
+<img width="1366" height="768" alt="BusGame" src="https://github.com/user-attachments/assets/d36001eb-9bef-4ec1-916a-de5d15d01b74" />
+<img width="1361" height="759" alt="Bus_Game" src="https://github.com/user-attachments/assets/60a85ee7-1bb8-4e66-b308-c4309c2202e7" />
+<img width="1366" height="768" alt="GameOver" src="https://github.com/user-attachments/assets/34b3cc64-d317-4c50-8b87-3d646df88d0d" />
+
 
 ## 👨‍💻 Developer
 Developed by Görkem.
